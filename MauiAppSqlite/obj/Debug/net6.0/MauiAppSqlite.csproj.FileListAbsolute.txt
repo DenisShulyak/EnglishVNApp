@@ -1,0 +1,14 @@
+C:\Users\denis\source\repos\MauiApp1\MauiAppSqlite\bin\Debug\net6.0\MauiAppSqlite.deps.json
+C:\Users\denis\source\repos\MauiApp1\MauiAppSqlite\bin\Debug\net6.0\MauiAppSqlite.runtimeconfig.json
+C:\Users\denis\source\repos\MauiApp1\MauiAppSqlite\bin\Debug\net6.0\MauiAppSqlite.dll
+C:\Users\denis\source\repos\MauiApp1\MauiAppSqlite\bin\Debug\net6.0\MauiAppSqlite.pdb
+C:\Users\denis\source\repos\MauiApp1\MauiAppSqlite\obj\Debug\net6.0\MauiAppSqlite.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\MauiApp1\MauiAppSqlite\obj\Debug\net6.0\MauiAppSqlite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\source\repos\MauiApp1\MauiAppSqlite\obj\Debug\net6.0\MauiAppSqlite.AssemblyInfoInputs.cache
+C:\Users\denis\source\repos\MauiApp1\MauiAppSqlite\obj\Debug\net6.0\MauiAppSqlite.AssemblyInfo.cs
+C:\Users\denis\source\repos\MauiApp1\MauiAppSqlite\obj\Debug\net6.0\MauiAppSqlite.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\MauiApp1\MauiAppSqlite\obj\Debug\net6.0\MauiAppSqlite.dll
+C:\Users\denis\source\repos\MauiApp1\MauiAppSqlite\obj\Debug\net6.0\refint\MauiAppSqlite.dll
+C:\Users\denis\source\repos\MauiApp1\MauiAppSqlite\obj\Debug\net6.0\MauiAppSqlite.pdb
+C:\Users\denis\source\repos\MauiApp1\MauiAppSqlite\obj\Debug\net6.0\MauiAppSqlite.genruntimeconfig.cache
+C:\Users\denis\source\repos\MauiApp1\MauiAppSqlite\obj\Debug\net6.0\ref\MauiAppSqlite.dll

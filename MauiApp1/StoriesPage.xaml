@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.StoriesPage"
+             Title="StoriesPage">
+    <ScrollView>
+        <VerticalStackLayout
+            x:Name="stackLayout"
+            Spacing="25"
+            Padding="30,0"
+            Margin="30"
+            VerticalOptions="Start">
+            
+            <Label
+                Text="Выберите историю чтобы начать!"
+                VerticalOptions="Center"
+                HorizontalOptions="Center" />
+
+            <!-- <Button -->
+            <!--     Text="История 1" -->
+            <!--     HorizontalOptions="CenterAndExpand" -->
+            <!--     HeightRequest="100" -->
+            <!--     WidthRequest="300" /> -->
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

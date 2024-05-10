@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+            <Button
+                Text="Начать"
+                Clicked="Button_Clicked"
+                HeightRequest="100"
+                WidthRequest="300"
+                HorizontalOptions="CenterAndExpand" />
+
+            <Button
+                Text="Пройти тесты"
+                HorizontalOptions="CenterAndExpand"
+                HeightRequest="100"
+                WidthRequest="300"/>
+
+            <Button
+                Text="Настройки"
+                HorizontalOptions="CenterAndExpand"
+                HeightRequest="100"
+                WidthRequest="300"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

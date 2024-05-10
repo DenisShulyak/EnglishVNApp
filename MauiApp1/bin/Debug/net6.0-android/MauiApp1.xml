@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MauiApp1</name>
+    </assembly>
+    <members>
+        <member name="T:MauiApp1.ChaptersPage">
+            <summary>
+            Страница с главами
+            </summary>
+        </member>
+        <member name="M:MauiApp1.StoriesPage.LoadData">
+            <summary>
+            Загрузка контента
+            </summary>
+        </member>
+    </members>
+</doc>

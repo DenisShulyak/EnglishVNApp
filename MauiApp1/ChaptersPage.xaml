@@ -1,0 +1,60 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.ChaptersPage">
+    <ScrollView>
+        <Grid Padding="0,0"
+              RowSpacing="25"
+              Margin="30"
+              x:Name="Grid">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            
+            <Label 
+                Text="Выберите главу чтобы начать!"
+                VerticalOptions="Center"
+                HorizontalOptions="Center"
+                
+                Grid.ColumnSpan="2" />
+
+            <!-- <Button  -->
+            <!--     Text="Глава 1" -->
+            <!--     HorizontalOptions="CenterAndExpand" -->
+            <!--     HeightRequest="50" -->
+            <!--     WidthRequest="150" -->
+            <!--     Grid.Row="1" -->
+            <!--     Grid.Column="0" /> -->
+            <!-- -->
+            <!-- <Button  -->
+            <!--     Text="Глава 2" -->
+            <!--     HorizontalOptions="CenterAndExpand" -->
+            <!--     HeightRequest="50" -->
+            <!--     WidthRequest="150" -->
+            <!--     Grid.Row="1" -->
+            <!--     Grid.Column="1" /> -->
+            <!-- -->
+            <!-- <Button  -->
+            <!--     Text="Глава 3" -->
+            <!--     HorizontalOptions="CenterAndExpand" -->
+            <!--     HeightRequest="50" -->
+            <!--     WidthRequest="150" -->
+            <!--     Grid.Row="2" -->
+            <!--     Grid.Column="0" /> -->
+            <!-- -->
+            <!-- <Button  -->
+            <!--     Text="Глава 4" -->
+            <!--     HorizontalOptions="CenterAndExpand" -->
+            <!--     HeightRequest="50" -->
+            <!--     WidthRequest="150" -->
+            <!--     Grid.Row="2" -->
+            <!--     Grid.Column="1" /> -->
+            
+        </Grid>
+    </ScrollView>
+</ContentPage>
