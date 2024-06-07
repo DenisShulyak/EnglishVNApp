@@ -1,4 +1,5 @@
-﻿using MauiApp1.Utilities;
+﻿using MauiApp1.Services;
+using MauiApp1.Utilities;
 using MauiAppSqlite;
 using Microsoft.EntityFrameworkCore;
 
@@ -16,6 +17,12 @@ public static class MauiProgram
 				fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
 				fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
 			});
+		builder.Services.AddHttpClient<ApiService>(client =>
+		{
+			client.BaseAddress = new Uri("http://10.0.2.2:5062");
+			// Дополнительные настройки HttpClient, если нужно
+		});
+		builder.Services.AddTransient<ApiService>();
 		builder.Services.AddDbContext<AppDbContext>(
 			options=>options.UseSqlite($"Filename={PathDB.GetPath("englishvndb.db3")}", x=>
 				x.MigrationsAssembly(nameof(MauiAppSqlite))));

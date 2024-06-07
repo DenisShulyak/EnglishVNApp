@@ -760,6 +760,9 @@
     <AppxPackagedFile Include="C:\Users\denis\.nuget\packages\microsoft.extensions.dependencymodel\6.0.0\lib\netstandard2.0\Microsoft.Extensions.DependencyModel.dll">
       <PackagePath>Microsoft.Extensions.DependencyModel.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denis\.nuget\packages\microsoft.extensions.http\6.0.0\lib\netstandard2.0\Microsoft.Extensions.Http.dll">
+      <PackagePath>Microsoft.Extensions.Http.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\denis\.nuget\packages\microsoft.extensions.logging\6.0.0\lib\netstandard2.1\Microsoft.Extensions.Logging.dll">
       <PackagePath>Microsoft.Extensions.Logging.dll</PackagePath>
     </AppxPackagedFile>

@@ -50,16 +50,13 @@
 
 	<ItemGroup>
 	  <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.0" />
+	  <PackageReference Include="Microsoft.Extensions.Http" Version="6.0.0" />
 	</ItemGroup>
 
 	<ItemGroup>
 	  <MauiXaml Update="StoriesPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	</ItemGroup>
-
-	<ItemGroup>
-	  <ProjectReference Include="..\MauiAppSqlite\MauiAppSqlite.csproj" />
 	</ItemGroup>
 
 </Project>

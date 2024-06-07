@@ -248,6 +248,25 @@
           }
         }
       },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Logging/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -2239,19 +2258,6 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
-        }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
         }
       }
     },
@@ -2502,6 +2508,25 @@
           }
         }
       },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Logging/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -4487,19 +4512,6 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
-        }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
         }
       }
     },
@@ -4750,6 +4762,25 @@
           }
         }
       },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Logging/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -6735,19 +6766,6 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
-        }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
         }
       }
     },
@@ -6998,6 +7016,25 @@
           }
         }
       },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Logging/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -8983,19 +9020,6 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
-        }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
         }
       }
     },
@@ -9246,6 +9270,25 @@
           }
         }
       },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Logging/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -11231,19 +11274,6 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
-        }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
         }
       }
     },
@@ -11494,6 +11524,25 @@
           }
         }
       },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Logging/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -13479,19 +13528,6 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
-        }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
         }
       }
     },
@@ -13742,6 +13778,25 @@
           }
         }
       },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Logging/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -15727,19 +15782,6 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
-        }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
         }
       }
     },
@@ -15990,6 +16032,25 @@
           }
         }
       },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Logging/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -17976,19 +18037,6 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        }
       }
     },
     "net6.0-ios16.0": {
@@ -18221,6 +18269,25 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
             "related": ".xml"
           }
         }
@@ -18559,19 +18626,6 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
-        }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
         }
       }
     },
@@ -18809,6 +18863,25 @@
           }
         }
       },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Logging/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -19079,19 +19152,6 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        }
       }
     },
     "net6.0-ios16.0/android-arm64": {
@@ -19324,6 +19384,25 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
             "related": ".xml"
           }
         }
@@ -19598,19 +19677,6 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        }
       }
     },
     "net6.0-ios16.0/android-x64": {
@@ -19843,6 +19909,25 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
             "related": ".xml"
           }
         }
@@ -20117,19 +20202,6 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        }
       }
     },
     "net6.0-ios16.0/android-x86": {
@@ -20362,6 +20434,25 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
             "related": ".xml"
           }
         }
@@ -20636,19 +20727,6 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        }
       }
     },
     "net6.0-ios16.0/iossimulator-x64": {
@@ -20881,6 +20959,25 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
             "related": ".xml"
           }
         }
@@ -21151,19 +21248,6 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
-        }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
         }
       }
     },
@@ -21401,6 +21485,25 @@
           }
         }
       },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Logging/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -21668,19 +21771,6 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        }
       }
     },
     "net6.0-ios16.0/win10-x64": {
@@ -21913,6 +22003,25 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
             "related": ".xml"
           }
         }
@@ -22187,19 +22296,6 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        }
       }
     },
     "net6.0-maccatalyst15.4": {
@@ -22432,6 +22528,25 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
             "related": ".xml"
           }
         }
@@ -22771,19 +22886,6 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        }
       }
     },
     "net6.0-maccatalyst15.4/android-arm": {
@@ -23016,6 +23118,25 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
             "related": ".xml"
           }
         }
@@ -23290,19 +23411,6 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        }
       }
     },
     "net6.0-maccatalyst15.4/android-arm64": {
@@ -23535,6 +23643,25 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
             "related": ".xml"
           }
         }
@@ -23809,19 +23936,6 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        }
       }
     },
     "net6.0-maccatalyst15.4/android-x64": {
@@ -24054,6 +24168,25 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
             "related": ".xml"
           }
         }
@@ -24328,19 +24461,6 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        }
       }
     },
     "net6.0-maccatalyst15.4/android-x86": {
@@ -24573,6 +24693,25 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
             "related": ".xml"
           }
         }
@@ -24847,19 +24986,6 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        }
       }
     },
     "net6.0-maccatalyst15.4/iossimulator-x64": {
@@ -25092,6 +25218,25 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
             "related": ".xml"
           }
         }
@@ -25362,19 +25507,6 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
-        }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
         }
       }
     },
@@ -25612,6 +25744,25 @@
           }
         }
       },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Logging/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -25879,19 +26030,6 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        }
       }
     },
     "net6.0-maccatalyst15.4/win10-x64": {
@@ -26124,6 +26262,25 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
             "related": ".xml"
           }
         }
@@ -26398,19 +26555,6 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        }
       }
     },
     "net6.0-windows10.0.19041": {
@@ -26643,6 +26787,25 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
             "related": ".xml"
           }
         }
@@ -27107,19 +27270,6 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        }
       }
     },
     "net6.0-windows10.0.19041/android-arm": {
@@ -27352,6 +27502,25 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
             "related": ".xml"
           }
         }
@@ -27723,19 +27892,6 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        }
       }
     },
     "net6.0-windows10.0.19041/android-arm64": {
@@ -27968,6 +28124,25 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
             "related": ".xml"
           }
         }
@@ -28339,19 +28514,6 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        }
       }
     },
     "net6.0-windows10.0.19041/android-x64": {
@@ -28584,6 +28746,25 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
             "related": ".xml"
           }
         }
@@ -28955,19 +29136,6 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        }
       }
     },
     "net6.0-windows10.0.19041/android-x86": {
@@ -29200,6 +29368,25 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
             "related": ".xml"
           }
         }
@@ -29571,19 +29758,6 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        }
       }
     },
     "net6.0-windows10.0.19041/iossimulator-x64": {
@@ -29816,6 +29990,25 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
             "related": ".xml"
           }
         }
@@ -30183,19 +30376,6 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
-        }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
         }
       }
     },
@@ -30433,6 +30613,25 @@
           }
         }
       },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Logging/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -30797,19 +30996,6 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        }
       }
     },
     "net6.0-windows10.0.19041/win10-x64": {
@@ -31042,6 +31228,25 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
             "related": ".xml"
           }
         }
@@ -31419,19 +31624,6 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
-      },
-      "MauiAppSqlite/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MauiAppSqlite.dll": {}
-        }
       }
     }
   },
@@ -31695,6 +31887,25 @@
         "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.xml",
         "microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512",
         "microsoft.extensions.dependencymodel.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.Http/6.0.0": {
+      "sha512": "15+pa2G0bAMHbHewaQIdr/y6ag2H3yh4rd9hTXavtWDzQBkvpe2RMqFg8BxDpcQWssmjmBApGPcw93QRz6YcMg==",
+      "type": "package",
+      "path": "microsoft.extensions.http/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Extensions.Http.dll",
+        "lib/net461/Microsoft.Extensions.Http.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Http.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Http.xml",
+        "microsoft.extensions.http.6.0.0.nupkg.sha512",
+        "microsoft.extensions.http.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
@@ -34830,37 +35041,32 @@
         "xamarin.kotlinx.coroutines.core.jvm.1.6.0.1.nupkg.sha512",
         "xamarin.kotlinx.coroutines.core.jvm.nuspec"
       ]
-    },
-    "MauiAppSqlite/1.0.0": {
-      "type": "project",
-      "path": "../MauiAppSqlite/MauiAppSqlite.csproj",
-      "msbuildProject": "../MauiAppSqlite/MauiAppSqlite.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0-android31.0": [
-      "MauiAppSqlite >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Sqlite >= 6.0.0",
+      "Microsoft.Extensions.Http >= 6.0.0",
       "Microsoft.Maui.Dependencies >= 6.0.541",
       "Microsoft.Maui.Extensions >= 6.0.541"
     ],
     "net6.0-ios16.0": [
-      "MauiAppSqlite >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Sqlite >= 6.0.0",
+      "Microsoft.Extensions.Http >= 6.0.0",
       "Microsoft.Maui.Dependencies >= 6.0.541",
       "Microsoft.Maui.Extensions >= 6.0.541",
       "System.Runtime.InteropServices.NFloat.Internal >= 6.0.1"
     ],
     "net6.0-maccatalyst15.4": [
-      "MauiAppSqlite >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Sqlite >= 6.0.0",
+      "Microsoft.Extensions.Http >= 6.0.0",
       "Microsoft.Maui.Dependencies >= 6.0.541",
       "Microsoft.Maui.Extensions >= 6.0.541",
       "System.Runtime.InteropServices.NFloat.Internal >= 6.0.1"
     ],
     "net6.0-windows10.0.19041": [
-      "MauiAppSqlite >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Sqlite >= 6.0.0",
+      "Microsoft.Extensions.Http >= 6.0.0",
       "Microsoft.Maui.Dependencies >= 6.0.541",
       "Microsoft.Maui.Extensions >= 6.0.541",
       "Microsoft.Windows.SDK.BuildTools >= 10.0.22000.194"
@@ -34901,35 +35107,19 @@
       "frameworks": {
         "net6.0-android31.0": {
           "targetAlias": "net6.0-android",
-          "projectReferences": {
-            "C:\\Users\\denis\\source\\repos\\MauiApp1\\MauiAppSqlite\\MauiAppSqlite.csproj": {
-              "projectPath": "C:\\Users\\denis\\source\\repos\\MauiApp1\\MauiAppSqlite\\MauiAppSqlite.csproj"
-            }
-          }
+          "projectReferences": {}
         },
         "net6.0-ios16.0": {
           "targetAlias": "net6.0-ios",
-          "projectReferences": {
-            "C:\\Users\\denis\\source\\repos\\MauiApp1\\MauiAppSqlite\\MauiAppSqlite.csproj": {
-              "projectPath": "C:\\Users\\denis\\source\\repos\\MauiApp1\\MauiAppSqlite\\MauiAppSqlite.csproj"
-            }
-          }
+          "projectReferences": {}
         },
         "net6.0-maccatalyst15.4": {
           "targetAlias": "net6.0-maccatalyst",
-          "projectReferences": {
-            "C:\\Users\\denis\\source\\repos\\MauiApp1\\MauiAppSqlite\\MauiAppSqlite.csproj": {
-              "projectPath": "C:\\Users\\denis\\source\\repos\\MauiApp1\\MauiAppSqlite\\MauiAppSqlite.csproj"
-            }
-          }
+          "projectReferences": {}
         },
         "net6.0-windows10.0.19041": {
           "targetAlias": "net6.0-windows10.0.19041.0",
-          "projectReferences": {
-            "C:\\Users\\denis\\source\\repos\\MauiApp1\\MauiAppSqlite\\MauiAppSqlite.csproj": {
-              "projectPath": "C:\\Users\\denis\\source\\repos\\MauiApp1\\MauiAppSqlite\\MauiAppSqlite.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -34943,6 +35133,10 @@
         "targetAlias": "net6.0-android",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Sqlite": {
+            "target": "Package",
+            "version": "[6.0.0, )"
+          },
+          "Microsoft.Extensions.Http": {
             "target": "Package",
             "version": "[6.0.0, )"
           },
@@ -34991,6 +35185,10 @@
         "targetAlias": "net6.0-ios",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Sqlite": {
+            "target": "Package",
+            "version": "[6.0.0, )"
+          },
+          "Microsoft.Extensions.Http": {
             "target": "Package",
             "version": "[6.0.0, )"
           },
@@ -35047,6 +35245,10 @@
             "target": "Package",
             "version": "[6.0.0, )"
           },
+          "Microsoft.Extensions.Http": {
+            "target": "Package",
+            "version": "[6.0.0, )"
+          },
           "Microsoft.Maui.Dependencies": {
             "target": "Package",
             "version": "[6.0.541, )",
@@ -35098,6 +35300,10 @@
         "targetAlias": "net6.0-windows10.0.19041.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Sqlite": {
+            "target": "Package",
+            "version": "[6.0.0, )"
+          },
+          "Microsoft.Extensions.Http": {
             "target": "Package",
             "version": "[6.0.0, )"
           },

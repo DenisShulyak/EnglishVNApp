@@ -1,0 +1,374 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MauiApp.Server
+build_property.RootNamespace = MauiApp.Server
+build_property.ProjectDir = C:\Users\denis\source\repos\MauiApp1\MauiApp.Server\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\denis\source\repos\MauiApp1\MauiApp.Server
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = b-om2vptuhpb
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Chapters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcHRlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Chapters/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcHRlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Chapters/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcHRlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Chapters/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcHRlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Chapters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcHRlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Emotions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1vdGlvbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Emotions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1vdGlvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Emotions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1vdGlvbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Emotions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1vdGlvbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Emotions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1vdGlvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Images/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Images/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Images/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Images/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Images/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/ImageTypes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VUeXBlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/ImageTypes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VUeXBlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/ImageTypes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VUeXBlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/ImageTypes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VUeXBlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/ImageTypes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VUeXBlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/ImpactAnswers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wYWN0QW5zd2Vyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/ImpactAnswers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wYWN0QW5zd2Vyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/ImpactAnswers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wYWN0QW5zd2Vyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/ImpactAnswers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wYWN0QW5zd2Vyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/ImpactAnswers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wYWN0QW5zd2Vyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Questions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Questions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Questions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Questions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Questions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/QuestionTypes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25UeXBlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/QuestionTypes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25UeXBlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/QuestionTypes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25UeXBlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/QuestionTypes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25UeXBlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/QuestionTypes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25UeXBlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Scenes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NlbmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Scenes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NlbmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Scenes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NlbmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Scenes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NlbmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Scenes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NlbmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/SceneTypes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NlbmVUeXBlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/SceneTypes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NlbmVUeXBlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/SceneTypes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NlbmVUeXBlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/SceneTypes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NlbmVUeXBlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/SceneTypes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NlbmVUeXBlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Speakers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlYWtlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Speakers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlYWtlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Speakers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlYWtlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Speakers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlYWtlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Speakers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlYWtlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Stories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Rvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Stories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Rvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Stories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Rvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Stories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Rvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Stories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Rvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/StoryResults/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcnlSZXN1bHRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/StoryResults/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcnlSZXN1bHRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/StoryResults/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcnlSZXN1bHRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/StoryResults/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcnlSZXN1bHRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/StoryResults/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcnlSZXN1bHRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Subscriptions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2NyaXB0aW9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Subscriptions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2NyaXB0aW9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Subscriptions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2NyaXB0aW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Subscriptions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2NyaXB0aW9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Subscriptions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2NyaXB0aW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/TutorialAnswers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JpYWxBbnN3ZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/TutorialAnswers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JpYWxBbnN3ZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/TutorialAnswers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JpYWxBbnN3ZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/TutorialAnswers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JpYWxBbnN3ZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/TutorialAnswers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JpYWxBbnN3ZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/UserChapters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckNoYXB0ZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/UserChapters/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckNoYXB0ZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/UserChapters/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckNoYXB0ZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/UserChapters/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckNoYXB0ZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/UserChapters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckNoYXB0ZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denis/source/repos/MauiApp1/MauiApp.Server/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
